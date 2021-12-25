@@ -1,0 +1,16 @@
+:root{
+    --main-color: rgb(133, 35, 35);
+    --margin-bottom: 20px;
+}
+
+.block1,
+.block2,
+.block3 {
+    width: 100px;
+    height: 100px;
+    background-color: var(--main-color);
+    margin-top: var(--margin-bottom);
+}
+
+
+
